@@ -1,22 +1,22 @@
-# Available .REVIEWS One-Word Domains (5,621,979)
+# Available .REVIEWS One-Word Domains (9,197)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C196%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C621%2C979%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C197%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C197%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .reviews one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .reviews one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,196-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,621,979 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,196 rows · **Live catalog:** 5,621,979 domains
+**Public extract:** 9,197 rows · **Live catalog:** 9,197 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/reviews`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .REVIEWS one-word doma
 
 ### Files
 
-- `reviews.csv` — public CSV extract (9,196 rows)
-- `reviews.json` — public JSON extract (9,196 rows)
+- `reviews.csv` — public CSV extract (9,197 rows)
+- `reviews.json` — public JSON extract (9,197 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -67,19 +67,19 @@ print(df.head())
 | zero.reviews     | available | $7.99     | $81.99        | 112            | 53     | 4      | name.com         |
 | discover.reviews | resell    | —         | —             | 66             | 75     | 8      | Porkbun LLC      |
 | ace.reviews      | premium   | $82.50    | $82.50        | 88             | 57     | 3      | name.com         |
-| wizard.reviews   | available | $7.99     | $81.99        | 118            | 46     | 6      | name.com         |
-| fun.reviews      | resell    | —         | —             | 122            | 63     | 3      | GoDaddy.com, LLC |
+| wizard.reviews   | available | $7.99     | $81.99        | 118            | 43     | 6      | name.com         |
+| fun.reviews      | resell    | —         | —             | 122            | 62     | 3      | GoDaddy.com, LLC |
 | fast.reviews     | premium   | $82.50    | $82.50        | 82             | 53     | 4      | name.com         |
 | rainbow.reviews  | available | $7.99     | —             | 81             | 43     | 7      | name.com         |
 | tesla.reviews    | resell    | —         | —             | 86             | 61     | 5      | GoDaddy.com, LLC |
-| one.reviews      | premium   | $1,000    | $1,000        | 132            | 51     | 3      | name.com         |
+| one.reviews      | premium   | $1,000    | $1,000        | 132            | 50     | 3      | name.com         |
 | mark.reviews     | available | $7.99     | $81.99        | 66             | 42     | 4      | name.com         |
 | here.reviews     | resell    | —         | —             | 130            | 58     | 4      | Name.com, Inc.   |
 | design.reviews   | premium   | $1,000    | $1,000        | 108            | 50     | 6      | name.com         |
-| unity.reviews    | available | $7.99     | $81.99        | 70             | 41     | 5      | name.com         |
+| craft.reviews    | available | $7.99     | $81.99        | 70             | 41     | 5      | name.com         |
 | the.reviews      | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH        |
 | abc.reviews      | premium   | $1,040    | $1,040        | 102            | 50     | 3      | namecheap        |
-| craft.reviews    | available | $7.99     | $81.99        | 70             | 41     | 5      | name.com         |
+| unity.reviews    | available | $7.99     | $81.99        | 70             | 40     | 5      | name.com         |
 | sam.reviews      | resell    | —         | —             | 90             | 57     | 3      | GoDaddy.com, LLC |
 | digital.reviews  | premium   | $1,000    | $1,000        | 100            | 50     | 7      | name.com         |
 | dark.reviews     | available | $7.99     | $81.99        | 52             | 40     | 4      | name.com         |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,196-row public sample | 5,621,979 live domains                           |
+| 9,197-row public sample | 9,197 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REVIEWS One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REVIEWS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
