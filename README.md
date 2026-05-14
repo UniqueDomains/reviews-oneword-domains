@@ -82,7 +82,7 @@ print(df.head())
 | children.reviews    | premium   | $123.75   | —             | 68             | 21     | 8      | name.com     |
 | forms.reviews       | available | $7.99     | —             | 54             | 28     | 5      | name.com     |
 | apartments.reviews  | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo     |
-| IDK.reviews         | available | $77.98    | —             | 56             | 27     | 3      | namecheap    |
+| trades.reviews      | available | $7.99     | —             | 71             | 26     | 6      | name.com     |
 | affiliates.reviews  | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
