@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .reviews one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,092 domains · **Median ask:** $24.62 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/reviews`  
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | updated.reviews     | resell    | —         | —             | 52             | 10     | 7      | Porkbun LLC  |
 | SanDiego.reviews    | premium   | $118.80   | $118.80       | 74             | 29     | 9      | namesilo     |
 | etc.reviews         | available | $7.99     | —             | 58             | 34     | 3      | name.com     |
-| destination.reviews | premium   | $123.75   | —             | 90             | 25     | 11     | name.com     |
+| destination.reviews | premium   | $123.75   | —             | 90             | 24     | 11     | name.com     |
 | William.reviews     | available | $77.98    | —             | 74             | 31     | 7      | namecheap    |
 | shops.reviews       | premium   | $123.75   | —             | 64             | 24     | 5      | name.com     |
 | spaces.reviews      | available | $7.99     | —             | 54             | 30     | 6      | name.com     |
@@ -79,11 +79,11 @@ print(df.head())
 | heroes.reviews      | available | $7.99     | —             | 68             | 29     | 6      | name.com     |
 | boats.reviews       | premium   | $123.75   | —             | 52             | 24     | 5      | name.com     |
 | quotes.reviews      | available | $7.99     | —             | 58             | 29     | 6      | name.com     |
-| children.reviews    | premium   | $123.75   | —             | 68             | 21     | 8      | name.com     |
-| forms.reviews       | available | $7.99     | —             | 54             | 28     | 5      | name.com     |
 | apartments.reviews  | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo     |
-| trades.reviews      | available | $7.99     | —             | 71             | 26     | 6      | name.com     |
+| forms.reviews       | available | $7.99     | —             | 54             | 28     | 5      | name.com     |
 | affiliates.reviews  | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo     |
+| trades.reviews      | available | $7.99     | —             | 71             | 26     | 6      | name.com     |
+| wheels.reviews      | premium   | $82.50    | —             | 76             | 20     | 6      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REVIEWS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REVIEWS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
