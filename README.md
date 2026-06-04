@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .reviews one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,092 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,092 domains · **Median ask:** $24.62 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,092 domains · **Median ask:** $27.26 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/reviews`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| events.reviews      | available | $7.99     | —             | 68             | 37     | 6      | name.com     |
-| systems.reviews     | resell    | —         | —             | 46             | 27     | 7      | Sav.com, LLC |
-| videos.reviews      | premium   | $123.75   | —             | 52             | 30     | 6      | name.com     |
-| stories.reviews     | available | $7.99     | —             | 58             | 36     | 7      | name.com     |
-| updated.reviews     | resell    | —         | —             | 52             | 10     | 7      | Porkbun LLC  |
-| SanDiego.reviews    | premium   | $118.80   | $118.80       | 74             | 29     | 9      | namesilo     |
-| etc.reviews         | available | $7.99     | —             | 58             | 34     | 3      | name.com     |
-| destination.reviews | premium   | $123.75   | —             | 90             | 24     | 11     | name.com     |
-| William.reviews     | available | $77.98    | —             | 74             | 31     | 7      | namecheap    |
-| shops.reviews       | premium   | $123.75   | —             | 64             | 24     | 5      | name.com     |
-| spaces.reviews      | available | $7.99     | —             | 54             | 30     | 6      | name.com     |
-| loans.reviews       | premium   | $242      | $242          | 58             | 24     | 5      | namesilo     |
-| heroes.reviews      | available | $7.99     | —             | 68             | 29     | 6      | name.com     |
-| boats.reviews       | premium   | $123.75   | —             | 52             | 24     | 5      | name.com     |
-| quotes.reviews      | available | $7.99     | —             | 58             | 29     | 6      | name.com     |
-| apartments.reviews  | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo     |
-| forms.reviews       | available | $7.99     | —             | 54             | 28     | 5      | name.com     |
-| affiliates.reviews  | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo     |
-| trades.reviews      | available | $7.99     | —             | 71             | 26     | 6      | name.com     |
-| wheels.reviews      | premium   | $82.50    | —             | 76             | 20     | 6      | name.com     |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| matt.reviews      | available | $7.99     | —             | 72             | 71     | 4      | name.com               |
+| quick.reviews     | resell    | —         | —             | 72             | 43     | 5      | Sav.com, LLC           |
+| air.reviews       | premium   | $260      | $260          | 84             | 48     | 3      | namecheap              |
+| bloom.reviews     | available | $7.99     | —             | 72             | 51     | 5      | name.com               |
+| fake.reviews      | resell    | —         | —             | 84             | 32     | 4      | Dynadot Inc            |
+| wow.reviews       | premium   | $78.54    | $78.54        | 80             | 47     | 3      | namesilo               |
+| bridge.reviews    | available | $7.99     | —             | 68             | 49     | 6      | name.com               |
+| race.reviews      | resell    | —         | —             | 78             | 29     | 4      | Go France Domains, LLC |
+| dna.reviews       | premium   | $118.80   | $118.80       | 78             | 47     | 3      | namesilo               |
+| yes.reviews       | available | $7.99     | —             | 132            | 47     | 3      | name.com               |
+| rated.reviews     | resell    | —         | —             | 66             | 11     | 5      | GoDaddy.com, LLC       |
+| genius.reviews    | premium   | $250      | $250          | 98             | 44     | 6      | name.com               |
+| edge.reviews      | available | $7.99     | —             | 72             | 47     | 4      | name.com               |
+| justnow.reviews   | resell    | —         | —             | 56             | 10     | 8      | Wild West Domains, LLC |
+| awesome.reviews   | premium   | $35.40    | $35.40        | 98             | 44     | 7      | namesilo               |
+| beam.reviews      | available | $7.99     | —             | 66             | 44     | 4      | name.com               |
+| scale.reviews     | premium   | $118.80   | $118.80       | 96             | 42     | 5      | namesilo               |
+| andrew.reviews    | available | $7.99     | —             | 70             | 40     | 6      | name.com               |
+| earth.reviews     | premium   | $242      | $242          | 62             | 42     | 5      | namesilo               |
+| alexander.reviews | available | $7.99     | —             | 66             | 38     | 9      | name.com               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REVIEWS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REVIEWS One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
