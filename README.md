@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .reviews one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,092 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,092 domains · **Median ask:** $27.26 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,092 domains · **Median ask:** $27.22 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/reviews`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/reviews`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .REVIEWS one-word doma
 
 ### Files
 
-- `reviews.csv` — public CSV extract (1,000 rows)
-- `reviews.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `reviews.csv`, public CSV extract (1,000 rows)
+- `reviews.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| matt.reviews      | available | $7.99     | —             | 72             | 71     | 4      | name.com               |
-| quick.reviews     | resell    | —         | —             | 72             | 43     | 5      | Sav.com, LLC           |
-| air.reviews       | premium   | $260      | $260          | 84             | 48     | 3      | namecheap              |
-| bloom.reviews     | available | $7.99     | —             | 72             | 51     | 5      | name.com               |
-| fake.reviews      | resell    | —         | —             | 84             | 32     | 4      | Dynadot Inc            |
-| wow.reviews       | premium   | $78.54    | $78.54        | 80             | 47     | 3      | namesilo               |
-| bridge.reviews    | available | $7.99     | —             | 68             | 49     | 6      | name.com               |
-| race.reviews      | resell    | —         | —             | 78             | 29     | 4      | Go France Domains, LLC |
-| dna.reviews       | premium   | $118.80   | $118.80       | 78             | 47     | 3      | namesilo               |
-| yes.reviews       | available | $7.99     | —             | 132            | 47     | 3      | name.com               |
-| rated.reviews     | resell    | —         | —             | 66             | 11     | 5      | GoDaddy.com, LLC       |
-| genius.reviews    | premium   | $250      | $250          | 98             | 44     | 6      | name.com               |
-| edge.reviews      | available | $7.99     | —             | 72             | 47     | 4      | name.com               |
-| justnow.reviews   | resell    | —         | —             | 56             | 10     | 8      | Wild West Domains, LLC |
-| awesome.reviews   | premium   | $35.40    | $35.40        | 98             | 44     | 7      | namesilo               |
-| beam.reviews      | available | $7.99     | —             | 66             | 44     | 4      | name.com               |
-| scale.reviews     | premium   | $118.80   | $118.80       | 96             | 42     | 5      | namesilo               |
-| andrew.reviews    | available | $7.99     | —             | 70             | 40     | 6      | name.com               |
-| earth.reviews     | premium   | $242      | $242          | 62             | 42     | 5      | namesilo               |
-| alexander.reviews | available | $7.99     | —             | 66             | 38     | 9      | name.com               |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| are.reviews     | available | $7.99     | —             | high           | low    | 3      | name.com               |
+| fake.reviews    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc            |
+| air.reviews     | premium   | $260      | $260          | high           | medium | 3      | namecheap              |
+| ash.reviews     | available | $7.99     | —             | medium         | low    | 3      | name.com               |
+| race.reviews    | resell    | —         | —             | high           | low    | 4      | Go France Domains, LLC |
+| boy.reviews     | premium   | $123.75   | —             | medium         | low    | 3      | name.com               |
+| ate.reviews     | available | $7.99     | —             | high           | low    | 3      | name.com               |
+| quick.reviews   | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC           |
+| cut.reviews     | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com               |
+| axe.reviews     | available | $7.99     | —             | medium         | low    | 3      | name.com               |
+| rated.reviews   | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC       |
+| dna.reviews     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo               |
+| bro.reviews     | available | $7.99     | —             | medium         | low    | 3      | name.com               |
+| justnow.reviews | resell    | —         | —             | medium         | low    | 8      | Wild West Domains, LLC |
+| hat.reviews     | premium   | $242      | $242          | high           | low    | 3      | namesilo               |
+| btw.reviews     | available | $7.99     | —             | high           | low    | 3      | name.com               |
+| hot.reviews     | premium   | $854      | $854          | high           | low    | 3      | namesilo               |
+| cow.reviews     | available | $7.99     | —             | high           | low    | 3      | name.com               |
+| lcd.reviews     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo               |
+| cry.reviews     | available | $7.99     | —             | high           | low    | 3      | name.com               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .reviews domains. The strongest candidates are the ones where the word and the extension read naturally together, as in analysis.reviews or library.reviews. For founders, that usually means a name that is easy to understand, easy to remember, and specific enough to support a review-led brand. For investors, the key test is whether the word has broad commercial use and clear resale logic inside a niche TLD. The median ask here is 24.61, so the main decision is rarely entry price alone. Focus more on semantic fit, renewal exposure, and whether the word creates immediate credibility with .reviews.
+This set gathers 12,092 one-word and compound .reviews domain names, from everyday terms like 'gingerbread' and 'whitewater' to topic-specific phrases such as 'primarycare' and 'mealsonwheels'. The median asking price sits near $27, making most names accessible whether you're comparing pricing for a portfolio or shortlisting a memorable base for a review or comparison site. Because the .reviews extension clearly signals rating, feedback, or comparison content, these names carry built-in context that can help both buyers and visitors immediately understand a site's purpose.
 
-- Prioritize words that pair naturally with .reviews
-- Generic terms usually age better than obscure words
-- Check renewal costs before treating low asks as bargains
-- Avoid words with obvious trademark or category conflicts
+- 12,092 one-word .reviews domains in this selection
+- Median asking price near $27 per domain
+- Compound words like 'chaitea' and 'aloevera' show brandable style
+- Compare pricing and renewal costs before picking a domain
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REVIEWS One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REVIEWS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
