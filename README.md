@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .reviews one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,127 domains · **Median ask:** $20.52 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-08
+**Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/tld/reviews`
 **Best for:** founders, investors, studios
 
@@ -80,7 +80,7 @@ print(df.head())
 | justnow.reviews | resell    | —         | —             | medium         | low    | 8      | Wild West Domains, LLC |
 | hat.reviews     | premium   | $242      | $242          | medium         | low    | 3      | namesilo               |
 | btw.reviews     | available | $7.99     | —             | high           | low    | 3      | name.com               |
-| hot.reviews     | premium   | $854      | $854          | high           | low    | 3      | namesilo               |
+| hot.reviews     | premium   | $854      | $854          | medium         | medium | 3      | namesilo               |
 | cow.reviews     | available | $7.99     | —             | high           | low    | 3      | name.com               |
 | lcd.reviews     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo               |
 | cry.reviews     | available | $7.99     | —             | high           | low    | 3      | name.com               |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REVIEWS One-Word Domains*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REVIEWS One-Word Domains*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
