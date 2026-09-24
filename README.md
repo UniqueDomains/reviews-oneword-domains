@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .reviews one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,108 domains · **Median ask:** $39.48 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/reviews`
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,6 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| feel.reviews    | available | $7.99     | —             | high           | low    | 4      | name.com               |
-| yes.reviews     | available | $7.99     | —             | high           | medium | 3      | name.com               |
-| cut.reviews     | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com               |
-| count.reviews   | available | $7.99     | —             | high           | low    | 5      | name.com               |
 | are.reviews     | available | $7.99     | —             | high           | low    | 3      | name.com               |
 | fake.reviews    | resell    | —         | —             | low            | low    | 4      | Dynadot Inc            |
 | air.reviews     | premium   | $242      | $242          | medium         | low    | 3      | namesilo               |
@@ -76,6 +72,7 @@ print(df.head())
 | boy.reviews     | premium   | $123.75   | —             | medium         | low    | 3      | name.com               |
 | ate.reviews     | available | $7.99     | —             | high           | low    | 3      | name.com               |
 | rated.reviews   | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC       |
+| cut.reviews     | premium   | $118.80   | $118.80       | low            | low    | 3      | namesilo               |
 | axe.reviews     | available | $7.99     | —             | medium         | low    | 3      | name.com               |
 | justnow.reviews | resell    | —         | —             | medium         | low    | 8      | Wild West Domains, LLC |
 | dna.reviews     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo               |
@@ -84,6 +81,9 @@ print(df.head())
 | btw.reviews     | available | $7.99     | —             | high           | low    | 3      | name.com               |
 | hot.reviews     | premium   | $854      | $854          | medium         | low    | 3      | namesilo               |
 | cow.reviews     | available | $7.99     | —             | high           | low    | 3      | name.com               |
+| lcd.reviews     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo               |
+| cry.reviews     | available | $7.99     | —             | high           | low    | 3      | name.com               |
+| lie.reviews     | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REVIEWS One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REVIEWS One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
