@@ -1,10 +1,10 @@
-# Available .REVIEWS One-Word Domains (22,363)
+# Available .REVIEWS One-Word Domains (22,748)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C363%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C748%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .reviews one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,363 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,748 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,363 domains · **Median ask:** $47.75 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 22,748 domains · **Median ask:** $48.41 · **High-demand under $2,500:** 1
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/reviews`
@@ -79,8 +79,8 @@ print(df.head())
 | bmr.reviews        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
 | fit.reviews        | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap        |
 | bun.reviews        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
-| fix.reviews        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| don.reviews        | available | $7.99     | —             | high           | low    | 3      | name.com         |
+| fix.reviews        | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap        |
+| don.reviews        | available | $65.98    | $77.98        | high           | low    | 3      | namecheap        |
 | kid.reviews        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
 | hon.reviews        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
 | leg.reviews        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,363 live domains                        |
+| 1,000-row public sample | 22,748 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
