@@ -1,10 +1,10 @@
-# Available .REVIEWS One-Word Domains (25,837)
+# Available .REVIEWS One-Word Domains (28,153)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C837%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C153%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .reviews one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,837 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **28,153 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,837 domains · **Median ask:** $50.01 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 28,153 domains · **Median ask:** $50.99 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/reviews`
 **Best for:** founders, investors, studios
 
@@ -69,21 +69,21 @@ print(df.head())
 | arc.reviews        | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
 | abo.reviews        | available | $7.99     | $81.99        | high           | low    | 3      | name.com         |
 | just.reviews       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
-| dim.reviews        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| bcs.reviews        | premium   | $68.51    | $68.51        | high           | low    | 3      | spaceship        |
 | amd.reviews        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
 | dispensary.reviews | resell    | —         | —             | high           | low    | 10     | GoDaddy.com, LLC |
-| dvd.reviews        | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| dim.reviews        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
 | azo.reviews        | available | $7.99     | $81.99        | high           | low    | 3      | name.com         |
-| fee.reviews        | premium   | $102.67   | $102.67       | high           | low    | 3      | spaceship        |
+| dvd.reviews        | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
 | bae.reviews        | available | $7.99     | —             | high           | low    | 3      | name.com         |
-| fit.reviews        | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap        |
+| fee.reviews        | premium   | $102.67   | $102.67       | high           | low    | 3      | spaceship        |
 | bmr.reviews        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
-| fix.reviews        | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap        |
-| bsc.reviews        | available | $48.20    | $48.20        | high           | low    | 3      | cloudflare       |
 | kid.reviews        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| bun.reviews        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
+| bsc.reviews        | available | $48.20    | $48.20        | high           | low    | 3      | cloudflare       |
 | leg.reviews        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| don.reviews        | available | $65.98    | $77.98        | high           | low    | 3      | namecheap        |
+| bun.reviews        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
+| lms.reviews        | premium   | $34.36    | $34.36        | high           | low    | 3      | spaceship        |
+| dma.reviews        | available | $48.20    | $48.20        | high           | low    | 3      | cloudflare       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,837 live domains                        |
+| 1,000-row public sample | 28,153 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REVIEWS One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REVIEWS One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
